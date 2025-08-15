@@ -1,20 +1,32 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "George Orwell"
-        }, 
-        {
-            "id": 2,
-            "name": "Zitkala-Sa"
-        }, 
-        {
-            "id": 3,
-            "name": "Ted Chiang"
-        },
-        {
-            "id": 4,
-            "name": "Isabel Allende"
-        }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "name": "George Orwell",
+      "bio": "English novelist, essayist, journalist, and critic. Author of '1984' and 'Animal Farm'.",
+      "location": "Motihari, India",
+      "favoriteBooks": ["1984", "Animal Farm", "Homage to Catalonia"]
+    },
+    {
+      "id": 2,
+      "name": "Zitkala-Sa",
+      "bio": "Yankton Dakota writer, editor, translator, musician, educator, and political activist.",
+      "location": "South Dakota, USA",
+      "favoriteBooks": ["American Indian Stories", "Old Indian Legends"]
+    },
+    {
+      "id": 3,
+      "name": "Ted Chiang",
+      "bio": "American science fiction writer known for his precise, philosophical short stories.",
+      "location": "Port Jefferson, New York, USA",
+      "favoriteBooks": ["Story of Your Life", "Exhalation"]
+    },
+    {
+      "id": 4,
+      "name": "Isabel Allende",
+      "bio": "Chilean writer whose works often contain aspects of the magical realist tradition.",
+      "location": "Lima, Peru",
+      "favoriteBooks": ["The House of the Spirits", "Of Love and Shadows"]
+    }
+  ]
 }
